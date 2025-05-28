@@ -118,6 +118,7 @@ flask db init
 flask db migrate -m "study plans"
 flask db upgrade
 ```
+
 ## 7. Run the application:
 ```bash
 python app.py
